@@ -1,0 +1,652 @@
+Statement,Year,Item,value,unit,ticker,file_year
+Balance Sheet,1999,Cash,"116,962",thousand,AMZN,00
+Balance Sheet,1999,Marketable securities,"589,226",thousand,AMZN,00
+Balance Sheet,1999,Inventories,"220,646",thousand,AMZN,00
+Balance Sheet,1999,Prepaid expenses and other current assets,"85,344",thousand,AMZN,00
+Balance Sheet,1999,Total current assets,"1,012,178",thousand,AMZN,00
+Balance Sheet,1999,"Fixed assets, net","317,613",thousand,AMZN,00
+Balance Sheet,1999,"Goodwill, net","534,699",thousand,AMZN,00
+Balance Sheet,1999,"Other purchased intangibles, net","195,445",thousand,AMZN,00
+Balance Sheet,1999,Investments in equity-method investees,"226,727",thousand,AMZN,00
+Balance Sheet,1999,Other investments,"144,735",thousand,AMZN,00
+Balance Sheet,1999,Deferred charges and other,"40,154",thousand,AMZN,00
+Balance Sheet,1999,Total assets,"2,471,551",thousand,AMZN,00
+Balance Sheet,1999,Accounts payable,"463,026",thousand,AMZN,00
+Balance Sheet,1999,Accrued expenses and other current liabilities,"126,017",thousand,AMZN,00
+Balance Sheet,1999,Accrued advertising,"55,892",thousand,AMZN,00
+Balance Sheet,1999,Deferred revenue,"54,790",thousand,AMZN,00
+Balance Sheet,1999,Interest payable,"24,888",thousand,AMZN,00
+Balance Sheet,1999,Current portion of long-term debt and other,"14,322",thousand,AMZN,00
+Balance Sheet,1999,Total current liabilities,"738,935",thousand,AMZN,00
+Balance Sheet,1999,Long-term debt and other,"1,466,338",thousand,AMZN,00
+Balance Sheet,1999,Preferred stock,0,,AMZN,00
+Balance Sheet,1999,Common stock,"3,452",thousand,AMZN,00
+Balance Sheet,1999,Additional paid-in capital,"1,195,540",thousand,AMZN,00
+Balance Sheet,1999,Note receivable for common stock,"(1,171)",thousand,AMZN,00
+Balance Sheet,1999,Stock-based compensation,"(47,806)",thousand,AMZN,00
+Balance Sheet,1999,Accumulated other comprehensive income (loss),"(1,709)",thousand,AMZN,00
+Balance Sheet,1999,Accumulated deficit,"(882,028)",thousand,AMZN,00
+Balance Sheet,1999,Total stockholders' equity,"266,278",thousand,AMZN,00
+Balance Sheet,1999,Total liabilities and stockholders' equity,"2,471,551",thousand,AMZN,00
+Balance Sheet,1998,Cash,"25,561",thousand,AMZN,00
+Balance Sheet,1998,Marketable securities,"347,884",thousand,AMZN,00
+Balance Sheet,1998,Inventories,"29,501",thousand,AMZN,00
+Balance Sheet,1998,Prepaid expenses and other current assets,"21,308",thousand,AMZN,00
+Balance Sheet,1998,Total current assets,"424,254",thousand,AMZN,00
+Balance Sheet,1998,"Fixed assets, net","29,791",thousand,AMZN,00
+Balance Sheet,1998,"Goodwill, net","174,052",thousand,AMZN,00
+Balance Sheet,1998,"Other purchased intangibles, net","4,586",thousand,AMZN,00
+Balance Sheet,1998,Investments in equity-method investees,"7,740",thousand,AMZN,00
+Balance Sheet,1998,Other investments,0,thousand,AMZN,00
+Balance Sheet,1998,Deferred charges and other,"8,037",thousand,AMZN,00
+Balance Sheet,1998,Total assets,"648,460",thousand,AMZN,00
+Balance Sheet,1998,Accounts payable,"113,273",thousand,AMZN,00
+Balance Sheet,1998,Accrued expenses and other current liabilities,"34,413",thousand,AMZN,00
+Balance Sheet,1998,Accrued advertising,"13,071",thousand,AMZN,00
+Balance Sheet,1998,Deferred revenue,0,thousand,AMZN,00
+Balance Sheet,1998,Interest payable,10,thousand,AMZN,00
+Balance Sheet,1998,Current portion of long-term debt and other,808,thousand,AMZN,00
+Balance Sheet,1998,Total current liabilities,"171,575",thousand,AMZN,00
+Balance Sheet,1998,Long-term debt and other,"348,140",thousand,AMZN,00
+Balance Sheet,1998,Preferred stock,0,,AMZN,00
+Balance Sheet,1998,Common stock,"3,186",thousand,AMZN,00
+Balance Sheet,1998,Additional paid-in capital,"298,537",thousand,AMZN,00
+Balance Sheet,1998,Note receivable for common stock,"(1,099)",thousand,AMZN,00
+Balance Sheet,1998,Stock-based compensation,"(1,625)",thousand,AMZN,00
+Balance Sheet,1998,Accumulated other comprehensive income (loss),"1,806",thousand,AMZN,00
+Balance Sheet,1998,Accumulated deficit,"(162,060)",thousand,AMZN,00
+Balance Sheet,1998,Total stockholders' equity,"138,745",thousand,AMZN,00
+Balance Sheet,1998,Total liabilities and stockholders' equity,"648,460",thousand,AMZN,00
+Income Statement,1999,Net sales,"1,639,839",thousand,AMZN,00
+Income Statement,1999,Cost of sales,"1,349,194",thousand,AMZN,00
+Income Statement,1999,Gross profit,"290,645",thousand,AMZN,00
+Income Statement,1999,Marketing and sales,"413,150",thousand,AMZN,00
+Income Statement,1999,Technology and content,"159,722",thousand,AMZN,00
+Income Statement,1999,General and administrative,"70,144",thousand,AMZN,00
+Income Statement,1999,Stock-based compensation,"30,618",thousand,AMZN,00
+Income Statement,1999,Amortization of goodwill and other intangibles,"214,694",thousand,AMZN,00
+Income Statement,1999,"Merger, acquisition and investment-related costs","8,072",thousand,AMZN,00
+Income Statement,1999,Total operating expenses,"896,400",thousand,AMZN,00
+Income Statement,1999,Loss from operations,"(605,755)",thousand,AMZN,00
+Income Statement,1999,Interest income,"45,451",thousand,AMZN,00
+Income Statement,1999,Interest expense,"(84,566)",thousand,AMZN,00
+Income Statement,1999,"Other income, net","1,671",thousand,AMZN,00
+Income Statement,1999,Net interest income (expense) and other,"(37,444)",thousand,AMZN,00
+Income Statement,1999,Loss before equity in losses of equity-method investees,"(643,199)",thousand,AMZN,00
+Income Statement,1999,Equity in losses of equity-method investees,"(76,769)",thousand,AMZN,00
+Income Statement,1999,Net loss,"(719,968)",thousand,AMZN,00
+Income Statement,1999,Basic and diluted loss per share,(2.20),,AMZN,00
+Income Statement,1998,Net sales,"609,819",thousand,AMZN,00
+Income Statement,1998,Cost of sales,"476,155",thousand,AMZN,00
+Income Statement,1998,Gross profit,"133,664",thousand,AMZN,00
+Income Statement,1998,Marketing and sales,"132,654",thousand,AMZN,00
+Income Statement,1998,Technology and content,"46,424",thousand,AMZN,00
+Income Statement,1998,General and administrative,"15,618",thousand,AMZN,00
+Income Statement,1998,Stock-based compensation,"1,889",thousand,AMZN,00
+Income Statement,1998,Amortization of goodwill and other intangibles,"42,599",thousand,AMZN,00
+Income Statement,1998,"Merger, acquisition and investment-related costs","3,535",thousand,AMZN,00
+Income Statement,1998,Total operating expenses,"242,719",thousand,AMZN,00
+Income Statement,1998,Loss from operations,"(109,055)",thousand,AMZN,00
+Income Statement,1998,Interest income,"14,053",thousand,AMZN,00
+Income Statement,1998,Interest expense,"(26,639)",thousand,AMZN,00
+Income Statement,1998,"Other income, net",0,thousand,AMZN,00
+Income Statement,1998,Net interest income (expense) and other,"(12,586)",thousand,AMZN,00
+Income Statement,1998,Loss before equity in losses of equity-method investees,"(121,641)",thousand,AMZN,00
+Income Statement,1998,Equity in losses of equity-method investees,"(2,905)",thousand,AMZN,00
+Income Statement,1998,Net loss,"(124,546)",thousand,AMZN,00
+Income Statement,1998,Basic and diluted loss per share,(0.42),,AMZN,00
+Income Statement,1997,Net sales,"147,787",thousand,AMZN,00
+Income Statement,1997,Cost of sales,"118,969",thousand,AMZN,00
+Income Statement,1997,Gross profit,"28,818",thousand,AMZN,00
+Income Statement,1997,Marketing and sales,"40,077",thousand,AMZN,00
+Income Statement,1997,Technology and content,"13,384",thousand,AMZN,00
+Income Statement,1997,General and administrative,"6,741",thousand,AMZN,00
+Income Statement,1997,Stock-based compensation,"1,211",thousand,AMZN,00
+Income Statement,1997,Amortization of goodwill and other intangibles,0,thousand,AMZN,00
+Income Statement,1997,"Merger, acquisition and investment-related costs",0,thousand,AMZN,00
+Income Statement,1997,Total operating expenses,"61,413",thousand,AMZN,00
+Income Statement,1997,Loss from operations,"(32,595)",thousand,AMZN,00
+Income Statement,1997,Interest income,"1,901",thousand,AMZN,00
+Income Statement,1997,Interest expense,(326),thousand,AMZN,00
+Income Statement,1997,"Other income, net",0,thousand,AMZN,00
+Income Statement,1997,Net interest income (expense) and other,"1,575",thousand,AMZN,00
+Income Statement,1997,Loss before equity in losses of equity-method investees,"(31,020)",thousand,AMZN,00
+Income Statement,1997,Equity in losses of equity-method investees,0,thousand,AMZN,00
+Income Statement,1997,Net loss,"(31,020)",thousand,AMZN,00
+Income Statement,1997,Basic and diluted loss per share,(0.12),,AMZN,00
+Balance Sheet,2002,Cash and cash equivalents,"738,254",thousands,AMZN,03
+Balance Sheet,2002,Marketable securities,"562,715",thousands,AMZN,03
+Balance Sheet,2002,Inventories,"202,425",thousands,AMZN,03
+Balance Sheet,2002,"Accounts receivable, net and other current assets","112,282",thousands,AMZN,03
+Balance Sheet,2002,Total current assets,"1,615,676",thousands,AMZN,03
+Balance Sheet,2002,"Fixed assets, net","239,398",thousands,AMZN,03
+Balance Sheet,2002,"Goodwill, net","70,811",thousands,AMZN,03
+Balance Sheet,2002,"Other intangibles, net","3,460",thousands,AMZN,03
+Balance Sheet,2002,Other equity investments,"15,442",thousands,AMZN,03
+Balance Sheet,2002,Other assets,"45,662",thousands,AMZN,03
+Balance Sheet,2002,Total assets,"1,990,449",thousands,AMZN,03
+Balance Sheet,2002,Accounts payable,"618,128",thousands,AMZN,03
+Balance Sheet,2002,Accrued expenses and other current liabilities,"314,935",thousands,AMZN,03
+Balance Sheet,2002,Unearned revenue,"47,916",thousands,AMZN,03
+Balance Sheet,2002,Interest payable,"71,661",thousands,AMZN,03
+Balance Sheet,2002,Current portion of long-term debt and other,"13,318",thousands,AMZN,03
+Balance Sheet,2002,Total current liabilities,"1,065,958",thousands,AMZN,03
+Balance Sheet,2002,Long-term debt and other,"2,277,305",thousands,AMZN,03
+Balance Sheet,2002,Common stock,"3,879",thousands,AMZN,03
+Balance Sheet,2002,Additional paid-in capital,"1,649,946",thousands,AMZN,03
+Balance Sheet,2002,Deferred stock-based compensation,"(6,591)",thousands,AMZN,03
+Balance Sheet,2002,Accumulated other comprehensive income (loss),"9,662",thousands,AMZN,03
+Balance Sheet,2002,Accumulated deficit,"(3,009,710)",thousands,AMZN,03
+Balance Sheet,2002,Total stockholders’ deficit,"(1,352,814)",thousands,AMZN,03
+Balance Sheet,2002,Total liabilities and stockholders’ deficit,"1,990,449",thousands,AMZN,03
+Balance Sheet,2001,Cash and cash equivalents,"540,282",thousands,AMZN,03
+Balance Sheet,2001,Marketable securities,"456,303",thousands,AMZN,03
+Balance Sheet,2001,Inventories,"143,722",thousands,AMZN,03
+Balance Sheet,2001,"Accounts receivable, net and other current assets","67,613",thousands,AMZN,03
+Balance Sheet,2001,Total current assets,"1,207,920",thousands,AMZN,03
+Balance Sheet,2001,"Fixed assets, net","271,751",thousands,AMZN,03
+Balance Sheet,2001,"Goodwill, net","45,367",thousands,AMZN,03
+Balance Sheet,2001,"Other intangibles, net","34,382",thousands,AMZN,03
+Balance Sheet,2001,Other equity investments,"28,359",thousands,AMZN,03
+Balance Sheet,2001,Other assets,"49,768",thousands,AMZN,03
+Balance Sheet,2001,Total assets,"1,637,547",thousands,AMZN,03
+Balance Sheet,2001,Accounts payable,"444,748",thousands,AMZN,03
+Balance Sheet,2001,Accrued expenses and other current liabilities,"305,064",thousands,AMZN,03
+Balance Sheet,2001,Unearned revenue,"87,978",thousands,AMZN,03
+Balance Sheet,2001,Interest payable,"68,632",thousands,AMZN,03
+Balance Sheet,2001,Current portion of long-term debt and other,"14,992",thousands,AMZN,03
+Balance Sheet,2001,Total current liabilities,"921,414",thousands,AMZN,03
+Balance Sheet,2001,Long-term debt and other,"2,156,133",thousands,AMZN,03
+Balance Sheet,2001,Common stock,"3,732",thousands,AMZN,03
+Balance Sheet,2001,Additional paid-in capital,"1,462,769",thousands,AMZN,03
+Balance Sheet,2001,Deferred stock-based compensation,"(9,853)",thousands,AMZN,03
+Balance Sheet,2001,Accumulated other comprehensive income (loss),"(36,070)",thousands,AMZN,03
+Balance Sheet,2001,Accumulated deficit,"(2,860,578)",thousands,AMZN,03
+Balance Sheet,2001,Total stockholders’ deficit,"(1,440,000)",thousands,AMZN,03
+Balance Sheet,2001,Total liabilities and stockholders’ deficit,"1,637,547",thousands,AMZN,03
+Income Statement,2002,Net sales,"3,932,936",thousands,AMZN,03
+Income Statement,2002,Cost of sales,"2,940,318",thousands,AMZN,03
+Income Statement,2002,Gross profit,"992,618",thousands,AMZN,03
+Income Statement,2002,Fulfillment,"392,467",thousands,AMZN,03
+Income Statement,2002,Marketing,"125,383",thousands,AMZN,03
+Income Statement,2002,Technology and content,"215,617",thousands,AMZN,03
+Income Statement,2002,General and administrative,"79,049",thousands,AMZN,03
+Income Statement,2002,Stock-based compensation,"68,927",thousands,AMZN,03
+Income Statement,2002,Amortization of goodwill and other intangibles,"5,478",thousands,AMZN,03
+Income Statement,2002,Restructuring-related and other,"41,573",thousands,AMZN,03
+Income Statement,2002,Total operating expenses,"928,494",thousands,AMZN,03
+Income Statement,2002,Income (loss) from operations,"64,124",thousands,AMZN,03
+Income Statement,2002,Interest income,"23,687",thousands,AMZN,03
+Income Statement,2002,Interest expense,"(142,925)",thousands,AMZN,03
+Income Statement,2002,"Other income (expense), net","5,623",thousands,AMZN,03
+Income Statement,2002,"Other gains (losses), net","(96,273)",thousands,AMZN,03
+Income Statement,2002,"Total non-operating expenses, net","(209,888)",thousands,AMZN,03
+Income Statement,2002,Loss before equity in losses of equity-method investees,"(145,764)",thousands,AMZN,03
+Income Statement,2002,"Equity in losses of equity-method investees, net","(4,169)",thousands,AMZN,03
+Income Statement,2002,Loss before change in accounting principle,"(149,933)",thousands,AMZN,03
+Income Statement,2002,Cumulative effect of change in accounting principle,801,thousands,AMZN,03
+Income Statement,2002,Net loss,"(149,132)",thousands,AMZN,03
+Income Statement,2002,Basic and diluted loss per share,(0.39),,AMZN,03
+Income Statement,2002,Shares used in computation of loss per share,"378,363",thousands,AMZN,03
+Income Statement,2001,Net sales,"3,122,433",thousands,AMZN,03
+Income Statement,2001,Cost of sales,"2,323,875",thousands,AMZN,03
+Income Statement,2001,Gross profit,"798,558",thousands,AMZN,03
+Income Statement,2001,Fulfillment,"374,250",thousands,AMZN,03
+Income Statement,2001,Marketing,"138,283",thousands,AMZN,03
+Income Statement,2001,Technology and content,"241,165",thousands,AMZN,03
+Income Statement,2001,General and administrative,"89,862",thousands,AMZN,03
+Income Statement,2001,Stock-based compensation,"4,637",thousands,AMZN,03
+Income Statement,2001,Amortization of goodwill and other intangibles,"181,033",thousands,AMZN,03
+Income Statement,2001,Restructuring-related and other,"181,585",thousands,AMZN,03
+Income Statement,2001,Total operating expenses,"1,210,815",thousands,AMZN,03
+Income Statement,2001,Income (loss) from operations,"(412,257)",thousands,AMZN,03
+Income Statement,2001,Interest income,"29,103",thousands,AMZN,03
+Income Statement,2001,Interest expense,"(139,232)",thousands,AMZN,03
+Income Statement,2001,"Other income (expense), net","(1,900)",thousands,AMZN,03
+Income Statement,2001,"Other gains (losses), net","(2,141)",thousands,AMZN,03
+Income Statement,2001,"Total non-operating expenses, net","(114,170)",thousands,AMZN,03
+Income Statement,2001,Loss before equity in losses of equity-method investees,"(526,427)",thousands,AMZN,03
+Income Statement,2001,"Equity in losses of equity-method investees, net","(30,327)",thousands,AMZN,03
+Income Statement,2001,Loss before change in accounting principle,"(556,754)",thousands,AMZN,03
+Income Statement,2001,Cumulative effect of change in accounting principle,"(10,523)",thousands,AMZN,03
+Income Statement,2001,Net loss,"(567,277)",thousands,AMZN,03
+Income Statement,2001,Basic and diluted loss per share,(1.56),,AMZN,03
+Income Statement,2001,Shares used in computation of loss per share,"364,211",thousands,AMZN,03
+Income Statement,2000,Net sales,"2,761,983",thousands,AMZN,03
+Income Statement,2000,Cost of sales,"2,106,206",thousands,AMZN,03
+Income Statement,2000,Gross profit,"655,777",thousands,AMZN,03
+Income Statement,2000,Fulfillment,"414,509",thousands,AMZN,03
+Income Statement,2000,Marketing,"179,980",thousands,AMZN,03
+Income Statement,2000,Technology and content,"269,326",thousands,AMZN,03
+Income Statement,2000,General and administrative,"108,962",thousands,AMZN,03
+Income Statement,2000,Stock-based compensation,"24,797",thousands,AMZN,03
+Income Statement,2000,Amortization of goodwill and other intangibles,"321,772",thousands,AMZN,03
+Income Statement,2000,Restructuring-related and other,"200,311",thousands,AMZN,03
+Income Statement,2000,Total operating expenses,"1,519,657",thousands,AMZN,03
+Income Statement,2000,Income (loss) from operations,"(863,880)",thousands,AMZN,03
+Income Statement,2000,Interest income,"40,821",thousands,AMZN,03
+Income Statement,2000,Interest expense,"(130,921)",thousands,AMZN,03
+Income Statement,2000,"Other income (expense), net","(10,058)",thousands,AMZN,03
+Income Statement,2000,"Other gains (losses), net","(142,639)",thousands,AMZN,03
+Income Statement,2000,"Total non-operating expenses, net","(242,797)",thousands,AMZN,03
+Income Statement,2000,Loss before equity in losses of equity-method investees,"(1,106,677)",thousands,AMZN,03
+Income Statement,2000,"Equity in losses of equity-method investees, net","(304,596)",thousands,AMZN,03
+Income Statement,2000,Net loss,"(1,411,273)",thousands,AMZN,03
+Income Statement,2000,Basic and diluted loss per share,(4.02),,AMZN,03
+Income Statement,2000,Shares used in computation of loss per share,"350,873",thousands,AMZN,03
+Statement of Cash Flows,2002,Net cash provided by (used in) operating activities,"174,291",thousands,AMZN,03
+Statement of Cash Flows,2002,Net cash provided by (used in) investing activities,"(121,684)",thousands,AMZN,03
+Statement of Cash Flows,2002,Net cash provided by financing activities,"106,894",thousands,AMZN,03
+Statement of Cash Flows,2002,Effect of exchange-rate changes on cash and cash equivalents,"38,471",thousands,AMZN,03
+Statement of Cash Flows,2002,Net increase (decrease) in cash and cash equivalents,"197,972",thousands,AMZN,03
+Statement of Cash Flows,2001,Net cash provided by (used in) operating activities,"(119,782)",thousands,AMZN,03
+Statement of Cash Flows,2001,Net cash provided by (used in) investing activities,"(253,294)",thousands,AMZN,03
+Statement of Cash Flows,2001,Net cash provided by financing activities,"106,881",thousands,AMZN,03
+Statement of Cash Flows,2001,Effect of exchange-rate changes on cash and cash equivalents,"(15,958)",thousands,AMZN,03
+Statement of Cash Flows,2001,Net increase (decrease) in cash and cash equivalents,"(282,153)",thousands,AMZN,03
+Statement of Cash Flows,2000,Net cash provided by (used in) operating activities,"(130,442)",thousands,AMZN,03
+Statement of Cash Flows,2000,Net cash provided by (used in) investing activities,"163,978",thousands,AMZN,03
+Statement of Cash Flows,2000,Net cash provided by financing activities,"693,147",thousands,AMZN,03
+Statement of Cash Flows,2000,Effect of exchange-rate changes on cash and cash equivalents,"(37,557)",thousands,AMZN,03
+Statement of Cash Flows,2000,Net increase (decrease) in cash and cash equivalents,"689,126",thousands,AMZN,03
+Balance Sheet,2006,Total assets,"4,363",millions,AMZN,07
+Balance Sheet,2006,Total current assets,"3,373",millions,AMZN,07
+Balance Sheet,2006,Cash and cash equivalents,"1,022",millions,AMZN,07
+Balance Sheet,2006,Marketable securities,997,millions,AMZN,07
+Balance Sheet,2006,Inventories,877,millions,AMZN,07
+Balance Sheet,2006,"Accounts receivable, net and other",399,millions,AMZN,07
+Balance Sheet,2006,Deferred tax assets,78,millions,AMZN,07
+Balance Sheet,2006,"Fixed assets, net",457,millions,AMZN,07
+Balance Sheet,2006,Goodwill,195,millions,AMZN,07
+Balance Sheet,2006,Other assets,139,millions,AMZN,07
+Balance Sheet,2006,Total current liabilities,"2,532",millions,AMZN,07
+Balance Sheet,2006,Accounts payable,"1,816",millions,AMZN,07
+Balance Sheet,2006,Accrued expenses and other,716,millions,AMZN,07
+Balance Sheet,2006,Long-term debt,"1,247",millions,AMZN,07
+Balance Sheet,2006,Other long-term liabilities,153,millions,AMZN,07
+Balance Sheet,2006,Total stockholders’ equity,431,millions,AMZN,07
+Balance Sheet,2005,Total assets,"3,696",millions,AMZN,07
+Balance Sheet,2005,Total current assets,"2,929",millions,AMZN,07
+Balance Sheet,2005,Cash and cash equivalents,"1,013",millions,AMZN,07
+Balance Sheet,2005,Marketable securities,987,millions,AMZN,07
+Balance Sheet,2005,Inventories,566,millions,AMZN,07
+Balance Sheet,2005,"Accounts receivable, net and other",274,millions,AMZN,07
+Balance Sheet,2005,Deferred tax assets,89,millions,AMZN,07
+Balance Sheet,2005,"Fixed assets, net",348,millions,AMZN,07
+Balance Sheet,2005,Goodwill,159,millions,AMZN,07
+Balance Sheet,2005,Other assets,37,millions,AMZN,07
+Balance Sheet,2005,Total current liabilities,"1,899",millions,AMZN,07
+Balance Sheet,2005,Accounts payable,"1,366",millions,AMZN,07
+Balance Sheet,2005,Accrued expenses and other,533,millions,AMZN,07
+Balance Sheet,2005,Long-term debt,"1,480",millions,AMZN,07
+Balance Sheet,2005,Other long-term liabilities,71,millions,AMZN,07
+Balance Sheet,2005,Total stockholders’ equity,246,millions,AMZN,07
+Balance Sheet,2005,Total assets,"3,696",millions,AMZN,06
+Balance Sheet,2005,Long-term debt and other,"1,521",millions,AMZN,06
+Balance Sheet,2005,Accounts payable,"1,366",millions,AMZN,06
+Balance Sheet,2005,Accrued expenses and other current liabilities,563,millions,AMZN,06
+Balance Sheet,2005,Total current liabilities,"1,929",millions,AMZN,06
+Balance Sheet,2005,Preferred stock,,,AMZN,06
+Balance Sheet,2005,Common stock,4,millions,AMZN,06
+Balance Sheet,2005,Additional paid-in capital,"2,263",millions,AMZN,06
+Balance Sheet,2005,Accumulated other comprehensive income,6,millions,AMZN,06
+Balance Sheet,2005,Accumulated deficit,"(2,027)",millions,AMZN,06
+Balance Sheet,2005,Total stockholders’ equity (deficit),246,millions,AMZN,06
+Balance Sheet,2005,Total liabilities and stockholders’ equity (deficit),"3,696",millions,AMZN,06
+Balance Sheet,2004,Total assets,"3,248",millions,AMZN,06
+Balance Sheet,2004,Long-term debt and other,"1,855",millions,AMZN,06
+Balance Sheet,2004,Accounts payable,"1,142",millions,AMZN,06
+Balance Sheet,2004,Accrued expenses and other current liabilities,478,millions,AMZN,06
+Balance Sheet,2004,Total current liabilities,"1,620",millions,AMZN,06
+Balance Sheet,2004,Preferred stock,,,AMZN,06
+Balance Sheet,2004,Common stock,4,millions,AMZN,06
+Balance Sheet,2004,Additional paid-in capital,"2,123",millions,AMZN,06
+Balance Sheet,2004,Accumulated other comprehensive income,32,millions,AMZN,06
+Balance Sheet,2004,Accumulated deficit,"(2,386)",millions,AMZN,06
+Balance Sheet,2004,Total stockholders’ equity (deficit),(227),millions,AMZN,06
+Balance Sheet,2004,Total liabilities and stockholders’ equity (deficit),"3,248",millions,AMZN,06
+Income Statement,2005,Net sales,"8,490",millions,AMZN,06
+Income Statement,2005,Income (loss) before change in accounting principle,333,millions,AMZN,06
+Income Statement,2005,Cumulative effect of change in accounting principle,26,millions,AMZN,06
+Income Statement,2005,Net income,359,millions,AMZN,06
+Income Statement,2005,Basic earnings per share,0.87,,AMZN,06
+Income Statement,2005,Diluted earnings per share,0.84,,AMZN,06
+Income Statement,2005,Fulfillment,745,millions,AMZN,06
+Income Statement,2005,Marketing,198,millions,AMZN,06
+Income Statement,2005,Technology and content,451,millions,AMZN,06
+Income Statement,2005,General and administrative,166,millions,AMZN,06
+Income Statement,2005,Other operating expense (income),47,millions,AMZN,06
+Income Statement,2005,Total operating expenses,"1,607",millions,AMZN,06
+Income Statement,2005,Cost of sales,"6,451",millions,AMZN,06
+Income Statement,2005,Gross profit,"2,039",millions,AMZN,06
+Income Statement,2005,Income from operations,432,millions,AMZN,06
+Income Statement,2005,Interest income,44,millions,AMZN,06
+Income Statement,2005,Interest expense,(92),millions,AMZN,06
+Income Statement,2005,"Other income (expense), net",2,millions,AMZN,06
+Income Statement,2005,Remeasurements and other,42,millions,AMZN,06
+Income Statement,2005,Provision for income taxes,95,millions,AMZN,06
+Income Statement,2004,Net sales,"6,921",millions,AMZN,06
+Income Statement,2004,Net income,588,millions,AMZN,06
+Income Statement,2004,Basic earnings per share,1.45,,AMZN,06
+Income Statement,2004,Diluted earnings per share,1.39,,AMZN,06
+Income Statement,2004,Fulfillment,601,millions,AMZN,06
+Income Statement,2004,Marketing,162,millions,AMZN,06
+Income Statement,2004,Technology and content,283,millions,AMZN,06
+Income Statement,2004,General and administrative,124,millions,AMZN,06
+Income Statement,2004,Other operating expense (income),(8),millions,AMZN,06
+Income Statement,2004,Total operating expenses,"1,162",millions,AMZN,06
+Income Statement,2004,Cost of sales,"5,319",millions,AMZN,06
+Income Statement,2004,Gross profit,"1,602",millions,AMZN,06
+Income Statement,2004,Income from operations,440,millions,AMZN,06
+Income Statement,2004,Interest income,28,millions,AMZN,06
+Income Statement,2004,Interest expense,(107),millions,AMZN,06
+Income Statement,2004,"Other income (expense), net",(5),millions,AMZN,06
+Income Statement,2004,Remeasurements and other,(1),millions,AMZN,06
+Income Statement,2004,Provision for income taxes,(233),millions,AMZN,06
+Income Statement,2003,Net sales,"5,264",millions,AMZN,06
+Income Statement,2003,Net income,35,millions,AMZN,06
+Income Statement,2003,Basic earnings per share,0.09,,AMZN,06
+Income Statement,2003,Diluted earnings per share,0.08,,AMZN,06
+Income Statement,2003,Fulfillment,495,millions,AMZN,06
+Income Statement,2003,Marketing,128,millions,AMZN,06
+Income Statement,2003,Technology and content,257,millions,AMZN,06
+Income Statement,2003,General and administrative,104,millions,AMZN,06
+Income Statement,2003,Other operating expense (income),3,millions,AMZN,06
+Income Statement,2003,Total operating expenses,987,millions,AMZN,06
+Income Statement,2003,Cost of sales,"4,007",millions,AMZN,06
+Income Statement,2003,Gross profit,"1,257",millions,AMZN,06
+Income Statement,2003,Income from operations,270,millions,AMZN,06
+Income Statement,2003,Interest income,22,millions,AMZN,06
+Income Statement,2003,Interest expense,(130),millions,AMZN,06
+Income Statement,2003,"Other income (expense), net",7,millions,AMZN,06
+Income Statement,2003,Remeasurements and other,(130),millions,AMZN,06
+Income Statement,2003,Provision for income taxes,4,millions,AMZN,06
+Balance Sheet,2003,Cash and cash equivalents,"1,102,273",thousands,AMZN,04
+Balance Sheet,2003,Marketable securities,"292,550",thousands,AMZN,04
+Balance Sheet,2003,Inventories,"293,917",thousands,AMZN,04
+Balance Sheet,2003,"Accounts receivable, net and other current assets","132,069",thousands,AMZN,04
+Balance Sheet,2003,Total current assets,"1,820,809",thousands,AMZN,04
+Balance Sheet,2003,"Fixed assets, net","224,285",thousands,AMZN,04
+Balance Sheet,2003,"Goodwill, net","69,121",thousands,AMZN,04
+Balance Sheet,2003,"Other intangibles, net",518,thousands,AMZN,04
+Balance Sheet,2003,Other equity investments,"14,831",thousands,AMZN,04
+Balance Sheet,2003,Other assets,"32,469",thousands,AMZN,04
+Balance Sheet,2003,Total assets,"2,162,033",thousands,AMZN,04
+Balance Sheet,2003,Accounts payable,"819,811",thousands,AMZN,04
+Balance Sheet,2003,Accrued expenses and other current liabilities,"317,730",thousands,AMZN,04
+Balance Sheet,2003,Unearned revenue,"37,844",thousands,AMZN,04
+Balance Sheet,2003,Interest payable,"73,100",thousands,AMZN,04
+Balance Sheet,2003,Current portion of long-term debt and other,"4,216",thousands,AMZN,04
+Balance Sheet,2003,Total current liabilities,"1,252,701",thousands,AMZN,04
+Balance Sheet,2003,Long-term debt and other,"1,945,439",thousands,AMZN,04
+Balance Sheet,2003,Preferred stock,—,,AMZN,04
+Balance Sheet,2003,Common stock,"4,034",thousands,AMZN,04
+Balance Sheet,2003,Additional paid-in capital,"1,899,398",thousands,AMZN,04
+Balance Sheet,2003,Deferred stock-based compensation,"(2,850)",thousands,AMZN,04
+Balance Sheet,2003,Accumulated other comprehensive income,"37,739",thousands,AMZN,04
+Balance Sheet,2003,Accumulated deficit,"(2,974,428)",thousands,AMZN,04
+Balance Sheet,2003,Total stockholders’ deficit,"(1,036,107)",thousands,AMZN,04
+Balance Sheet,2003,Total liabilities and stockholders’ deficit,"2,162,033",thousands,AMZN,04
+Balance Sheet,2002,Cash and cash equivalents,"738,254",thousands,AMZN,04
+Balance Sheet,2002,Marketable securities,"562,715",thousands,AMZN,04
+Balance Sheet,2002,Inventories,"202,425",thousands,AMZN,04
+Balance Sheet,2002,"Accounts receivable, net and other current assets","112,282",thousands,AMZN,04
+Balance Sheet,2002,Total current assets,"1,615,676",thousands,AMZN,04
+Balance Sheet,2002,"Fixed assets, net","239,398",thousands,AMZN,04
+Balance Sheet,2002,"Goodwill, net","70,811",thousands,AMZN,04
+Balance Sheet,2002,"Other intangibles, net","3,460",thousands,AMZN,04
+Balance Sheet,2002,Other equity investments,"15,442",thousands,AMZN,04
+Balance Sheet,2002,Other assets,"45,662",thousands,AMZN,04
+Balance Sheet,2002,Total assets,"1,990,449",thousands,AMZN,04
+Balance Sheet,2002,Accounts payable,"618,128",thousands,AMZN,04
+Balance Sheet,2002,Accrued expenses and other current liabilities,"314,935",thousands,AMZN,04
+Balance Sheet,2002,Unearned revenue,"47,916",thousands,AMZN,04
+Balance Sheet,2002,Interest payable,"71,661",thousands,AMZN,04
+Balance Sheet,2002,Current portion of long-term debt and other,"13,318",thousands,AMZN,04
+Balance Sheet,2002,Total current liabilities,"1,065,958",thousands,AMZN,04
+Balance Sheet,2002,Long-term debt and other,"2,277,305",thousands,AMZN,04
+Balance Sheet,2002,Preferred stock,—,,AMZN,04
+Balance Sheet,2002,Common stock,"3,879",thousands,AMZN,04
+Balance Sheet,2002,Additional paid-in capital,"1,649,946",thousands,AMZN,04
+Balance Sheet,2002,Deferred stock-based compensation,"(6,591)",thousands,AMZN,04
+Balance Sheet,2002,Accumulated other comprehensive income,"9,662",thousands,AMZN,04
+Balance Sheet,2002,Accumulated deficit,"(3,009,710)",thousands,AMZN,04
+Balance Sheet,2002,Total stockholders’ deficit,"(1,352,814)",thousands,AMZN,04
+Balance Sheet,2002,Total liabilities and stockholders’ deficit,"1,990,449",thousands,AMZN,04
+Balance Sheet,2004,Total assets,"3,248,508",thousands,AMZN,05
+Balance Sheet,2004,Cash and cash equivalents,"1,302,600",thousands,AMZN,05
+Balance Sheet,2004,Marketable securities,"476,599",thousands,AMZN,05
+Balance Sheet,2004,Inventories,"479,709",thousands,AMZN,05
+Balance Sheet,2004,Current deferred tax assets,"81,388",thousands,AMZN,05
+Balance Sheet,2004,"Accounts receivable, net and other current assets","199,100",thousands,AMZN,05
+Balance Sheet,2004,"Fixed assets, net","246,156",thousands,AMZN,05
+Balance Sheet,2004,Long-term deferred tax assets,"281,757",thousands,AMZN,05
+Balance Sheet,2004,Goodwill,"138,999",thousands,AMZN,05
+Balance Sheet,2004,Other assets,"42,200",thousands,AMZN,05
+Balance Sheet,2004,Accounts payable,"1,141,733",thousands,AMZN,05
+Balance Sheet,2004,Accrued expenses and other current liabilities,"361,128",thousands,AMZN,05
+Balance Sheet,2004,Unearned revenue,"41,099",thousands,AMZN,05
+Balance Sheet,2004,Interest payable,"74,059",thousands,AMZN,05
+Balance Sheet,2004,Current portion of long-term debt and other,"2,381",thousands,AMZN,05
+Balance Sheet,2004,Long-term debt and other,"1,855,319",thousands,AMZN,05
+Balance Sheet,2004,Preferred stock,—,,AMZN,05
+Balance Sheet,2004,Common stock,"4,097",thousands,AMZN,05
+Balance Sheet,2004,Additional paid-in capital,"2,124,598",thousands,AMZN,05
+Balance Sheet,2004,Deferred stock-based compensation,"(2,038)",thousands,AMZN,05
+Balance Sheet,2004,Accumulated other comprehensive income,"32,109",thousands,AMZN,05
+Balance Sheet,2004,Accumulated deficit,"(2,385,977)",thousands,AMZN,05
+Balance Sheet,2004,Total stockholders’ deficit,"(227,211)",thousands,AMZN,05
+Balance Sheet,2003,Total assets,"2,162,033",thousands,AMZN,05
+Balance Sheet,2003,Cash and cash equivalents,"1,102,273",thousands,AMZN,05
+Balance Sheet,2003,Marketable securities,"292,550",thousands,AMZN,05
+Balance Sheet,2003,Inventories,"293,917",thousands,AMZN,05
+Balance Sheet,2003,Current deferred tax assets,"81,388",thousands,AMZN,05
+Balance Sheet,2003,"Accounts receivable, net and other current assets","199,100",thousands,AMZN,05
+Balance Sheet,2003,"Fixed assets, net","246,156",thousands,AMZN,05
+Balance Sheet,2003,Long-term deferred tax assets,"281,757",thousands,AMZN,05
+Balance Sheet,2003,Goodwill,"138,999",thousands,AMZN,05
+Balance Sheet,2003,Other assets,"42,200",thousands,AMZN,05
+Balance Sheet,2003,Accounts payable,"819,811",thousands,AMZN,05
+Balance Sheet,2003,Accrued expenses and other current liabilities,"317,730",thousands,AMZN,05
+Balance Sheet,2003,Unearned revenue,"37,844",thousands,AMZN,05
+Balance Sheet,2003,Interest payable,"73,100",thousands,AMZN,05
+Balance Sheet,2003,Current portion of long-term debt and other,"4,216",thousands,AMZN,05
+Balance Sheet,2003,Long-term debt and other,"1,945,439",thousands,AMZN,05
+Balance Sheet,2003,Preferred stock,—,,AMZN,05
+Balance Sheet,2003,Common stock,"4,034",thousands,AMZN,05
+Balance Sheet,2003,Additional paid-in capital,"1,899,398",thousands,AMZN,05
+Balance Sheet,2003,Deferred stock-based compensation,"(2,850)",thousands,AMZN,05
+Balance Sheet,2003,Accumulated other comprehensive income,"37,739",thousands,AMZN,05
+Balance Sheet,2003,Accumulated deficit,"(2,974,428)",thousands,AMZN,05
+Balance Sheet,2003,Total stockholders’ deficit,"(1,036,107)",thousands,AMZN,05
+Income Statement,2004,Net sales,"6,921,124",thousands,AMZN,05
+Income Statement,2004,Cost of sales,"5,319,127",thousands,AMZN,05
+Income Statement,2004,Gross profit,"1,601,997",thousands,AMZN,05
+Income Statement,2004,Fulfillment,"590,397",thousands,AMZN,05
+Income Statement,2004,Marketing,"158,022",thousands,AMZN,05
+Income Statement,2004,Technology and content,"251,195",thousands,AMZN,05
+Income Statement,2004,General and administrative,"112,220",thousands,AMZN,05
+Income Statement,2004,Stock-based compensation,"57,702",thousands,AMZN,05
+Income Statement,2004,Other operating (income) expense,"(7,964)",thousands,AMZN,05
+Income Statement,2004,Total operating expenses,"1,161,572",thousands,AMZN,05
+Income Statement,2004,Income from operations,"440,425",thousands,AMZN,05
+Income Statement,2004,Interest income,"28,197",thousands,AMZN,05
+Income Statement,2004,Interest expense,"(107,227)",thousands,AMZN,05
+Income Statement,2004,"Other (expense) income, net","(4,701)",thousands,AMZN,05
+Income Statement,2004,Remeasurements and other,(824),thousands,AMZN,05
+Income Statement,2004,"Total non-operating expense, net","(84,555)",thousands,AMZN,05
+Income Statement,2004,Income (loss) before income taxes,"355,870",thousands,AMZN,05
+Income Statement,2004,Provision (benefit) for income taxes,"(232,581)",thousands,AMZN,05
+Income Statement,2004,Net income (loss),"588,451",thousands,AMZN,05
+Income Statement,2004,Basic earnings (loss) per share,1.45,,AMZN,05
+Income Statement,2004,Diluted earnings (loss) per share,1.39,,AMZN,05
+Income Statement,2003,Net sales,"5,263,699",thousands,AMZN,05
+Income Statement,2003,Cost of sales,"4,006,531",thousands,AMZN,05
+Income Statement,2003,Gross profit,"1,257,168",thousands,AMZN,05
+Income Statement,2003,Fulfillment,"477,032",thousands,AMZN,05
+Income Statement,2003,Marketing,"122,787",thousands,AMZN,05
+Income Statement,2003,Technology and content,"207,809",thousands,AMZN,05
+Income Statement,2003,General and administrative,"88,302",thousands,AMZN,05
+Income Statement,2003,Stock-based compensation,"87,751",thousands,AMZN,05
+Income Statement,2003,Other operating (income) expense,"2,892",thousands,AMZN,05
+Income Statement,2003,Total operating expenses,"986,573",thousands,AMZN,05
+Income Statement,2003,Income from operations,"270,595",thousands,AMZN,05
+Income Statement,2003,Interest income,"21,955",thousands,AMZN,05
+Income Statement,2003,Interest expense,"(129,979)",thousands,AMZN,05
+Income Statement,2003,"Other (expense) income, net","6,514",thousands,AMZN,05
+Income Statement,2003,Remeasurements and other,"(130,097)",thousands,AMZN,05
+Income Statement,2003,"Total non-operating expense, net","(231,607)",thousands,AMZN,05
+Income Statement,2003,Income (loss) before income taxes,"38,988",thousands,AMZN,05
+Income Statement,2003,Provision (benefit) for income taxes,"3,706",thousands,AMZN,05
+Income Statement,2003,Net income (loss),"35,282",thousands,AMZN,05
+Income Statement,2003,Basic earnings (loss) per share,0.09,,AMZN,05
+Income Statement,2003,Diluted earnings (loss) per share,0.08,,AMZN,05
+Income Statement,2002,Net sales,"3,932,936",thousands,AMZN,05
+Income Statement,2002,Cost of sales,"2,940,318",thousands,AMZN,05
+Income Statement,2002,Gross profit,"992,618",thousands,AMZN,05
+Income Statement,2002,Fulfillment,"392,467",thousands,AMZN,05
+Income Statement,2002,Marketing,"125,383",thousands,AMZN,05
+Income Statement,2002,Technology and content,"215,617",thousands,AMZN,05
+Income Statement,2002,General and administrative,"79,049",thousands,AMZN,05
+Income Statement,2002,Stock-based compensation,"68,927",thousands,AMZN,05
+Income Statement,2002,Other operating (income) expense,"47,051",thousands,AMZN,05
+Income Statement,2002,Total operating expenses,"928,494",thousands,AMZN,05
+Income Statement,2002,Income from operations,"64,124",thousands,AMZN,05
+Income Statement,2002,Interest income,"23,687",thousands,AMZN,05
+Income Statement,2002,Interest expense,"(142,925)",thousands,AMZN,05
+Income Statement,2002,"Other (expense) income, net","4,923",thousands,AMZN,05
+Income Statement,2002,Remeasurements and other,"(100,442)",thousands,AMZN,05
+Income Statement,2002,"Total non-operating expense, net","(214,757)",thousands,AMZN,05
+Income Statement,2002,Income (loss) before income taxes,"(149,933)",thousands,AMZN,05
+Income Statement,2002,Provision (benefit) for income taxes,(700),thousands,AMZN,05
+Income Statement,2002,Net income (loss),"(149,132)",thousands,AMZN,05
+Income Statement,2002,Basic earnings (loss) per share,(0.39),,AMZN,05
+Income Statement,2002,Diluted earnings (loss) per share,(0.39),,AMZN,05
+Balance Sheet,2007,Total assets,"6,485",millions,AMZN,08
+Balance Sheet,2007,Cash and cash equivalents,"2,539",millions,AMZN,08
+Balance Sheet,2007,Marketable securities,573,millions,AMZN,08
+Balance Sheet,2007,Inventories,"1,200",millions,AMZN,08
+Balance Sheet,2007,"Accounts receivable, net and other",705,millions,AMZN,08
+Balance Sheet,2007,Deferred tax assets,260,millions,AMZN,08
+Balance Sheet,2007,"Fixed assets, net",543,millions,AMZN,08
+Balance Sheet,2007,Goodwill,222,millions,AMZN,08
+Balance Sheet,2007,Other assets,296,millions,AMZN,08
+Balance Sheet,2007,Accounts payable,"2,795",millions,AMZN,08
+Balance Sheet,2007,Accrued expenses and other,919,millions,AMZN,08
+Balance Sheet,2007,Total current liabilities,"3,714",millions,AMZN,08
+Balance Sheet,2007,Long-term debt,"1,282",millions,AMZN,08
+Balance Sheet,2007,Other long-term liabilities,292,millions,AMZN,08
+Balance Sheet,2007,Total stockholders’ equity,"1,197",millions,AMZN,08
+Balance Sheet,2006,Total assets,"4,363",millions,AMZN,08
+Balance Sheet,2006,Cash and cash equivalents,"1,022",millions,AMZN,08
+Balance Sheet,2006,Marketable securities,997,millions,AMZN,08
+Balance Sheet,2006,Inventories,877,millions,AMZN,08
+Balance Sheet,2006,"Accounts receivable, net and other",399,millions,AMZN,08
+Balance Sheet,2006,Deferred tax assets,199,millions,AMZN,08
+Balance Sheet,2006,"Fixed assets, net",457,millions,AMZN,08
+Balance Sheet,2006,Goodwill,195,millions,AMZN,08
+Balance Sheet,2006,Other assets,139,millions,AMZN,08
+Balance Sheet,2006,Accounts payable,"1,816",millions,AMZN,08
+Balance Sheet,2006,Accrued expenses and other,716,millions,AMZN,08
+Balance Sheet,2006,Total current liabilities,"2,532",millions,AMZN,08
+Balance Sheet,2006,Long-term debt,"1,247",millions,AMZN,08
+Balance Sheet,2006,Other long-term liabilities,153,millions,AMZN,08
+Balance Sheet,2006,Total stockholders’ equity,431,millions,AMZN,08
+Income Statement,2007,Net sales,"14,835",millions,AMZN,08
+Income Statement,2007,Cost of sales,"11,482",millions,AMZN,08
+Income Statement,2007,Gross profit,"3,353",millions,AMZN,08
+Income Statement,2007,Fulfillment,"1,292",millions,AMZN,08
+Income Statement,2007,Marketing,344,millions,AMZN,08
+Income Statement,2007,Technology and content,818,millions,AMZN,08
+Income Statement,2007,General and administrative,235,millions,AMZN,08
+Income Statement,2007,"Other operating expense, net",9,millions,AMZN,08
+Income Statement,2007,Total operating expenses,"2,698",millions,AMZN,08
+Income Statement,2007,Income from operations,655,millions,AMZN,08
+Income Statement,2007,Interest income,90,millions,AMZN,08
+Income Statement,2007,Interest expense,(77),millions,AMZN,08
+Income Statement,2007,"Other income (expense), net",(1),millions,AMZN,08
+Income Statement,2007,Remeasurements and other,(7),millions,AMZN,08
+Income Statement,2007,Total non-operating income (expense),5,millions,AMZN,08
+Income Statement,2007,Income before income taxes,660,millions,AMZN,08
+Income Statement,2007,Provision for income taxes,184,millions,AMZN,08
+Income Statement,2007,Net income,476,millions,AMZN,08
+Income Statement,2006,Net sales,"10,711",millions,AMZN,08
+Income Statement,2006,Cost of sales,"8,255",millions,AMZN,08
+Income Statement,2006,Gross profit,"2,456",millions,AMZN,08
+Income Statement,2006,Fulfillment,937,millions,AMZN,08
+Income Statement,2006,Marketing,263,millions,AMZN,08
+Income Statement,2006,Technology and content,662,millions,AMZN,08
+Income Statement,2006,General and administrative,195,millions,AMZN,08
+Income Statement,2006,"Other operating expense, net",10,millions,AMZN,08
+Income Statement,2006,Total operating expenses,"2,067",millions,AMZN,08
+Income Statement,2006,Income from operations,389,millions,AMZN,08
+Income Statement,2006,Interest income,59,millions,AMZN,08
+Income Statement,2006,Interest expense,(78),millions,AMZN,08
+Income Statement,2006,"Other income (expense), net",(4),millions,AMZN,08
+Income Statement,2006,Remeasurements and other,11,millions,AMZN,08
+Income Statement,2006,Total non-operating income (expense),(12),millions,AMZN,08
+Income Statement,2006,Income before income taxes,377,millions,AMZN,08
+Income Statement,2006,Provision for income taxes,187,millions,AMZN,08
+Income Statement,2006,Net income,190,millions,AMZN,08
+Income Statement,2005,Net sales,"8,490",millions,AMZN,08
+Income Statement,2005,Cost of sales,"6,451",millions,AMZN,08
+Income Statement,2005,Gross profit,"2,039",millions,AMZN,08
+Income Statement,2005,Fulfillment,745,millions,AMZN,08
+Income Statement,2005,Marketing,198,millions,AMZN,08
+Income Statement,2005,Technology and content,451,millions,AMZN,08
+Income Statement,2005,General and administrative,166,millions,AMZN,08
+Income Statement,2005,"Other operating expense, net",47,millions,AMZN,08
+Income Statement,2005,Total operating expenses,"1,607",millions,AMZN,08
+Income Statement,2005,Income from operations,432,millions,AMZN,08
+Income Statement,2005,Interest income,44,millions,AMZN,08
+Income Statement,2005,Interest expense,(92),millions,AMZN,08
+Income Statement,2005,"Other income (expense), net",2,millions,AMZN,08
+Income Statement,2005,Remeasurements and other,42,millions,AMZN,08
+Income Statement,2005,Total non-operating income (expense),(4),millions,AMZN,08
+Income Statement,2005,Income before income taxes,428,millions,AMZN,08
+Income Statement,2005,Provision for income taxes,95,millions,AMZN,08
+Income Statement,2005,Net income,359,millions,AMZN,08
+Cash Flow Statement,2007,Net cash provided by operating activities,"1,405",millions,AMZN,08
+Cash Flow Statement,2007,"Purchases of fixed assets, including internal-use software and website development",(224),millions,AMZN,08
+Cash Flow Statement,2007,"Acquisitions, net of cash acquired, and other",(75),millions,AMZN,08
+Cash Flow Statement,2007,Sales and maturities of marketable securities and other investments,"1,271",millions,AMZN,08
+Cash Flow Statement,2007,Purchases of marketable securities and other investments,(930),millions,AMZN,08
+Cash Flow Statement,2007,Net cash provided by (used in) investing activities,42,millions,AMZN,08
+Cash Flow Statement,2007,Proceeds from exercises of stock options,91,millions,AMZN,08
+Cash Flow Statement,2007,Excess tax benefits from stock-based compensation,257,millions,AMZN,08
+Cash Flow Statement,2007,Common stock repurchased,(248),millions,AMZN,08
+Cash Flow Statement,2007,Proceeds from long-term debt and other,24,millions,AMZN,08
+Cash Flow Statement,2007,Repayments of long-term debt and capital lease obligations,(74),millions,AMZN,08
+Cash Flow Statement,2007,Net cash provided by (used in) financing activities,50,millions,AMZN,08
+Cash Flow Statement,2007,Net increase (decrease) in cash and cash equivalents,"1,517",millions,AMZN,08
+Cash Flow Statement,2007,Cash paid for interest,67,millions,AMZN,08
+Cash Flow Statement,2007,Cash paid for income taxes,24,millions,AMZN,08
+Cash Flow Statement,2006,Net cash provided by operating activities,702,millions,AMZN,08
+Cash Flow Statement,2006,"Purchases of fixed assets, including internal-use software and website development",(216),millions,AMZN,08
+Cash Flow Statement,2006,"Acquisitions, net of cash acquired, and other",(32),millions,AMZN,08
+Cash Flow Statement,2006,Sales and maturities of marketable securities and other investments,"1,845",millions,AMZN,08
+Cash Flow Statement,2006,Purchases of marketable securities and other investments,"(1,930)",millions,AMZN,08
+Cash Flow Statement,2006,Net cash provided by (used in) investing activities,(333),millions,AMZN,08
+Cash Flow Statement,2006,Proceeds from exercises of stock options,35,millions,AMZN,08
+Cash Flow Statement,2006,Excess tax benefits from stock-based compensation,102,millions,AMZN,08
+Cash Flow Statement,2006,Common stock repurchased,(252),millions,AMZN,08
+Cash Flow Statement,2006,Proceeds from long-term debt and other,98,millions,AMZN,08
+Cash Flow Statement,2006,Repayments of long-term debt and capital lease obligations,(383),millions,AMZN,08
+Cash Flow Statement,2006,Net cash provided by (used in) financing activities,(400),millions,AMZN,08
+Cash Flow Statement,2006,Net increase (decrease) in cash and cash equivalents,9,millions,AMZN,08
+Cash Flow Statement,2006,Cash paid for interest,86,millions,AMZN,08
+Cash Flow Statement,2006,Cash paid for income taxes,15,millions,AMZN,08
+Cash Flow Statement,2005,Net cash provided by operating activities,733,millions,AMZN,08
+Cash Flow Statement,2005,"Purchases of fixed assets, including internal-use software and website development",(204),millions,AMZN,08
+Cash Flow Statement,2005,"Acquisitions, net of cash acquired, and other",(24),millions,AMZN,08
+Cash Flow Statement,2005,Sales and maturities of marketable securities and other investments,836,millions,AMZN,08
+Cash Flow Statement,2005,Purchases of marketable securities and other investments,"(1,386)",millions,AMZN,08
+Cash Flow Statement,2005,Net cash provided by (used in) investing activities,(778),millions,AMZN,08
+Cash Flow Statement,2005,Proceeds from exercises of stock options,59,millions,AMZN,08
+Cash Flow Statement,2005,Excess tax benefits from stock-based compensation,7,millions,AMZN,08
+Cash Flow Statement,2005,Proceeds from long-term debt and other,11,millions,AMZN,08
+Cash Flow Statement,2005,Repayments of long-term debt and capital lease obligations,(270),millions,AMZN,08
+Cash Flow Statement,2005,Net cash provided by (used in) financing activities,(193),millions,AMZN,08
+Cash Flow Statement,2005,Net increase (decrease) in cash and cash equivalents,(290),millions,AMZN,08
+Cash Flow Statement,2005,Cash paid for interest,105,millions,AMZN,08
+Cash Flow Statement,2005,Cash paid for income taxes,12,millions,AMZN,08

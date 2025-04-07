@@ -1,0 +1,10 @@
+pandas
+numpy
+libmagic
+cssutils
+python-magic
+sec-edgar-downloader
+google-generativeai
+requests
+bs4
+shutils
